@@ -6,8 +6,8 @@ set -x
 
 /bin/kill -TERM $(pidof blender)
 
-printf "\n\nTerminato $(date)\n\n" >> log_GPU.txt
-printf "\n\nTerminato $(date)\n\n" >> log_CPU.txt
+printf "\n\nTerminato $(date)\n\n" >> logs/log_GPU.txt
+printf "\n\nTerminato $(date)\n\n" >> logs/log_CPU.txt
 
 #sleep 5
 read ciao
