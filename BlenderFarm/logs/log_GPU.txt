@@ -681,3 +681,7 @@ Fra:1 Mem:73.74M (0.00M, Peak 128.37M) | Remaining:00:17.26 | Mem:286.82M, Peak:
 Fra:1 Mem:73.74M (0.00M, Peak 128.37M) | Remaining:00:16.70 | Mem:286.82M, Peak:286.82M | Scene, RenderLayer | Path Tracing Tile 478/510
 Fra:1 Mem:73.74M (0.00M, Peak 128.37M) | Remaining:00:16.15 | Mem:286.82M, Peak:286.82M | Scene, RenderLayer | Path Tracing Tile 479/510
 Fra:1 Mem:73.74M (0.00M, Peak 128.37M) | Remaining:00:15.59 | Mem:Fra:3 Mem:16.51M (0.00M, Peak 34.29M) | Network render connected to master, waiting for jobs
+
+
+Terminato mar  6 gen 2015, 01.40.18, CET
+

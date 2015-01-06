@@ -1,0 +1,4 @@
+Read new prefs: /home/wert/.config/blender/2.72/config/userpref.blend
+read blend: /home/wert/DEV/DEV3/blender_python_studies/BlenderFarm/./blends/master.blend
+Fra:1 Mem:16.18M (0.00M, Peak 16.18M) | Version check
+Fra:1 Mem:16.18M (0.00M, Peak 16.18M) | New slave connected
