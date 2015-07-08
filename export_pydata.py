@@ -1,6 +1,10 @@
 def print_pydata(active_ob):
     """
       active_ob = bpy.context.scene.objects.active
+      
+      dopo puoi usarlo tipo così :)
+      profile_mesh = bpy.data.meshes.new("Base_Profile_Data")
+      profile_mesh.from_pydata(Verts, [], [])      
     """
     data = active_ob.data     
     verts = [(round(v.co[0],5),round(v.co[1],5),round(v.co[2],5)) for v in data.vertices]
